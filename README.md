@@ -17,7 +17,9 @@ https://drive.google.com/drive/folders/11jfUySz6oS4u-Hf0gzDmMNxrtsDeQS6K?usp=sha
 - Power Query
 - Data Visualization
 
-## 📌 Key Insights
-- Restaurant distribution by city
-- Average cost for two by location
-- Votes, ratings, cuisines analysis
+## 📈 Key Insights
+- Identified top cities with highest restaurant density
+- Analyzed average cost for two across locations
+- Compared customer votes and ratings
+- Explored popular cuisines and menu trends
+  📌 This project was created as part of my Data Analytics learning and internship preparation.
